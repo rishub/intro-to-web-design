@@ -1,0 +1,38 @@
+body {
+  background-color: #87CEFA;
+}
+
+.App {
+  text-align: center;
+  font-size: 18px;
+}
+
+input, button {
+  font-size: 18px;
+  padding: 10px;
+}
+
+input {
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+
+.todo {
+  background-color: rgba(255,255,255,.5);
+  width: 240px;
+  padding: 15px 15px;
+  margin: 10px auto;
+  text-align: left;
+  border-radius: 6px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.todo > span {
+  display: none;
+  cursor: pointer;
+}
+
+.todo:hover > span {
+  display: block;
+}

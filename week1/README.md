@@ -1,4 +1,5 @@
 ## Week 1
+### Intro to HTML, CSS, and Javascript
 
 1. Create a new file called `index.html` with this content:
     ```html

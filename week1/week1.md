@@ -28,6 +28,8 @@
       background-color: #f0e8c5;
     }
     ```
+6. Before we move any futher, let's view our page in the browser. 
+   Simply right click on the index.html file and open it up in your favorite browser. 
 5. Now, let's add in some `img` tags to our html file at the bottom of our `<body>`:
     ```html
     <div class="images">

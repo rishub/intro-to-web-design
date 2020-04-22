@@ -21,14 +21,14 @@
    This will find the element we created above with id of "date" and add the current date to its inner html
 3. Add in a `script` tag at the bottom of our html referencing our newly created javascript
     ```html
-    <script async src="./index.js"></script>
+    <script src="./index.js"></script>
     ``` 
    This simply imports our newly created javascript file
 4. Create a new file called `styles.css` that will contain our styles:
     ```css
     body {
       text-align: center;
-      background-color: #f0e8c5;
+      background-color: tan;
     }
     ```
 6. Before we move any futher, let's view our page in the browser. 

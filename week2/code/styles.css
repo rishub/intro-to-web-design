@@ -41,18 +41,6 @@ a {
 	align-self: center;
 }
 
-@media (max-width: 900px) {
-	#me {
-		flex-direction: column;
-	}
-
-	.profileImg {
-		height: 400px;
-		width: 400px;
-		margin-top: 25px;
-	}
-}
-
 #about {
 	margin: 50px;
 }

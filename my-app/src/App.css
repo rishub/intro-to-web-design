@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: tan;
+}
+
+img {
+  padding: 20px;
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}

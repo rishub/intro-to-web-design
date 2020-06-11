@@ -1,0 +1,14 @@
+.App {
+  margin-left: 5%;
+}
+
+.pokemonRow {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+  margin-bottom: 10px;
+}
+
+.searchBar {
+  margin-bottom: 20px;
+}
